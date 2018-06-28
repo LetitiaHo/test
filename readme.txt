@@ -1,3 +1,3 @@
 Line one
-Line two
-Line three
+Line two master my-new-feature
+Line three 
